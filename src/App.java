@@ -11,7 +11,7 @@ public class App {
         // double number = Double.parseDouble(inputNumber);
         // System.out.println("Введений текст: " + inputNumber);
 
-        System.out.println("Hello, World!");
+        // System.out.println("Hello, World!");
         
         // JOptionPane.showMessageDialog(null,"Це повідомлення!");
         // JOptionPane.showMessageDialog(null,"Це інформаційне повідомлення.", "Інформація", JOptionPane.INFORMATION_MESSAGE);
@@ -41,6 +41,9 @@ public class App {
         // }else{
         // System.out.println("Ви не ввели ім'я.");
         // }
+        
+
+
 
     }
 }
