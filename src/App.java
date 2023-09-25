@@ -42,8 +42,72 @@ public class App {
         // System.out.println("Ви не ввели ім'я.");
         // }
         
+        // int age = 25;
+        // if(age >= 18){
+        // System.out.println("Ви повнолітні.");
+        // }
+        // else {
+        // System.out.println("Ви не повнолітні.");
+        // }
+
+        // int age = 15;
+        // if (age >= 18) {
+        // System.out.println("Ви повнолітні.");
+        // } else if (age >= 13) {
+        // System.out.println("Ви підліток.");
+        // } else {
+        // System.out.println("Ви дитина.");
+        // }
+
+    // int dayOfWeek = 5;
+    // String dayName;
+    // switch (dayOfWeek) {
+    //     case 1:
+    //     dayName = "Понеділок";
+    //     break;
+    //     case 2:
+    //     dayName = "Вівторок";
+    //     break;
+    //     case 3:
+    //     dayName = "Середа";
+    //     break;
+    //     case 4:
+    //     dayName = "Четвер";
+    //     break;
+    //     case 5:
+    //     dayName = "П'ятниця";
+    //     break;
+    //     case 6:
+    //     dayName = "Субота";
+    //     break;
+    //     case 7:
+    //     dayName = "Неділя";
+    //     break;
+    //     default:
+    //     dayName = "Невідомий день";
+    // }
+    // System.out.println("Сьогодні " + dayName);
+
+    // for (int i = 0; i < 5; i++) 
+    // {
+    //     System.out.println("Це ітерація номер " + i);
+    // }
 
 
+    // int count = 0;
+    // while (count < 3) 
+    // {
+    //     System.out.println("Це ітерація номер " + count);
+    //     count++;
+    // }
 
+    // int number = 5;
+    // do 
+    // {
+    //     System.out.println("Це число: " + number);
+    //     number--;
+    // } while (number > 0);
+
+        
     }
 }
